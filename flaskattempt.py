@@ -15,7 +15,7 @@ def connect_db():
         'portNumber': 3306,           # The port of the MySQL server (default is 3306)
         'dbName': "mydb",    # The name of the database we are testing with (this default is installed with MySQL)
         'userName': "root",
-        'password': "ranger22"
+        'password': ""
     }
     tableName = "menu"           # The name of the table we are testing with
 
